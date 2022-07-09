@@ -42,7 +42,7 @@ span,
 
 
 .slider {
-    height: 50px;
+    height: 70px;
     overflow: hidden;
 }
 
@@ -52,11 +52,11 @@ span,
 }
 
 .title-item {
-    height: 50px;
+    height: 70px;
     display: flex;
     align-items: center;
-    text-align: center;
-    padding: 10px;
+    justify-content: center;
+    padding: 0 10px;
     background-color: #396afc;
     color: white;
 }
@@ -92,5 +92,5 @@ footer {
 }
 
 footer a {
-    font-size: 2vw;
+    font-size: 1.5vw;
 }
